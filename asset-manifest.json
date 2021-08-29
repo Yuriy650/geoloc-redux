@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/geoloc-redux/static/css/main.61bbbf4a.chunk.css",
+    "main.js": "/geoloc-redux/static/js/main.6173c9d1.chunk.js",
+    "main.js.map": "/geoloc-redux/static/js/main.6173c9d1.chunk.js.map",
+    "runtime-main.js": "/geoloc-redux/static/js/runtime-main.1a840f13.js",
+    "runtime-main.js.map": "/geoloc-redux/static/js/runtime-main.1a840f13.js.map",
+    "static/css/2.3f302c6c.chunk.css": "/geoloc-redux/static/css/2.3f302c6c.chunk.css",
+    "static/js/2.009186dc.chunk.js": "/geoloc-redux/static/js/2.009186dc.chunk.js",
+    "static/js/2.009186dc.chunk.js.map": "/geoloc-redux/static/js/2.009186dc.chunk.js.map",
+    "static/js/3.e4cf4dd4.chunk.js": "/geoloc-redux/static/js/3.e4cf4dd4.chunk.js",
+    "static/js/3.e4cf4dd4.chunk.js.map": "/geoloc-redux/static/js/3.e4cf4dd4.chunk.js.map",
+    "index.html": "/geoloc-redux/index.html",
+    "static/css/2.3f302c6c.chunk.css.map": "/geoloc-redux/static/css/2.3f302c6c.chunk.css.map",
+    "static/css/main.61bbbf4a.chunk.css.map": "/geoloc-redux/static/css/main.61bbbf4a.chunk.css.map",
+    "static/js/2.009186dc.chunk.js.LICENSE.txt": "/geoloc-redux/static/js/2.009186dc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/geoloc-redux/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a840f13.js",
+    "static/css/2.3f302c6c.chunk.css",
+    "static/js/2.009186dc.chunk.js",
+    "static/css/main.61bbbf4a.chunk.css",
+    "static/js/main.6173c9d1.chunk.js"
+  ]
+}
